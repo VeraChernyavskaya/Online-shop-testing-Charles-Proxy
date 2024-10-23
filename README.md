@@ -8,6 +8,6 @@
    + моделировала ситуацию, при которой при обращении к сайту онлайн магазина [demoshopping.ru](https://demoshopping.ru/) пользователь видит в браузере любую картинку.
   
 
-Видео с перехватами для настольного компьютера [здесь](https://drive.google.com/drive/folders/19MZ3bJhdBJdonvrss_qAK123yllBeJjE).
+Видео с перехватами для настольного компьютера [здесь](https://drive.google.com/drive/folders/1jORUFQB70ZA9Mo18J6QDeMCvNGQICyPH).
 
-Видео с перехватами для смартфона [тут](https://drive.google.com/drive/folders/1jORUFQB70ZA9Mo18J6QDeMCvNGQICyPH).
+Видео с перехватами для смартфона [тут](https://drive.google.com/drive/folders/19MZ3bJhdBJdonvrss_qAK123yllBeJjE).
