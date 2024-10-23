@@ -1,6 +1,6 @@
 # Online-shop-testing-Charles-Proxy
 
-С помощью Charles Proxy выполнила задачи по перехвату и изменению трафика для онлайн магазина [demoshopping.ru](https://demoshopping.ru/), а именнно:
+С помощью [Charles Proxy](https://www.charlesproxy.com) выполнила задачи по перехвату и изменению трафика для онлайн магазина [demoshopping.ru](https://demoshopping.ru/), а именнно:
    + изменяла  количество товаров в корзине;
    + удаляла из корзины один товар вместо другого;
    + моделировала ситуацию, при которой при обращении к сайту онлайн магазина [demoshopping.ru](https://demoshopping.ru/), сервер возвращает статус-код 403;
